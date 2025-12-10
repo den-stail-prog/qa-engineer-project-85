@@ -20,6 +20,10 @@
   status: pass
 
 - summary: |
+    Проверка регистрации с длинным паролем
+  status: pass
+
+- summary: |
     Проверка регистрации с некорректным паролем
   status: pass
 
